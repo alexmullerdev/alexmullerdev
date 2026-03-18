@@ -61,7 +61,7 @@ These repositories represent my **progress as I learn and grow as a developer**.
 
 ## 📊 GitHub Stats
 
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmullerdev\&show_icons=true\&theme=tokyonight)
+![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmullerdev\&show_icons=true\&theme=tokyonight&cache_seconds=1800)
 
 ---
 
